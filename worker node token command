@@ -1,0 +1,1 @@
+Use kubeadm join command with token --v=5 (copy the command from master and paste on worker)
